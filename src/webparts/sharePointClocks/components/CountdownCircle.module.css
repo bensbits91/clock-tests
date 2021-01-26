@@ -1,0 +1,25 @@
+.default {
+    font-size: 30px;
+}
+.msg {
+    font-size: 12px;
+}
+
+
+
+.big {
+    font-size: 60px;
+}
+.big .msg {
+    font-size: 24px;
+}
+
+.bigMsg .msg {
+    font-size: 30px;
+}
+
+
+
+.full.darkbg div {
+    color: #fff !important;
+}

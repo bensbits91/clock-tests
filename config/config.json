@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "share-point-clocks-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/sharePointClocks/SharePointClocksWebPart.js",
+          "manifest": "./src/webparts/sharePointClocks/SharePointClocksWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SharePointClocksWebPartStrings": "lib/webparts/sharePointClocks/loc/{locale}.js"
+  }
+}

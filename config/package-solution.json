@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-clocks-demo-client-side-solution",
+    "id": "0c0f0b54-79f2-4acc-acd9-e94d00aaf815",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-clocks-demo.sppkg"
+  }
+}

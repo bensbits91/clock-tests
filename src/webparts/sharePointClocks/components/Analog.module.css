@@ -1,0 +1,49 @@
+.mint .react-clock__face {
+    border-color: #34bebd;
+    border: none;
+}
+
+.mint .react-clock__hour-hand__body,
+.mint .react-clock__minute-hand__body,
+.mint .react-clock__hour-mark__body,
+.mint .react-clock__minute-mark__body {
+    background-color: #34bebd;
+}
+
+.mint .react-clock__second-hand__body {
+    background-color: #1e3b5a;
+}
+
+
+.navy .react-clock__face {
+    background-color: #1e3b5a;
+    border: none;
+}
+.navy .react-clock__hour-hand__body,
+.navy .react-clock__minute-hand__body,
+.navy .react-clock__hour-mark__body,
+.navy .react-clock__minute-mark__body {
+    background-color: #34bebd;
+}
+
+.navy .react-clock__second-hand__body {
+    background-color: #eee;
+}
+
+
+
+.tech .react-clock__face {
+    background-color: #222;
+    border: none;
+
+}
+.tech .react-clock__hour-hand__body,
+.tech .react-clock__minute-hand__body,
+.tech .react-clock__hour-mark__body,
+.tech .react-clock__minute-mark__body {
+    background-color: darkorange;
+}
+
+.tech .react-clock__second-hand__body {
+    background-color: #eee;
+}
